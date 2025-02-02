@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🚀 Frontend Developer | React.js Enthusiast | Web Performance Optimizer<br>I’m Shah Mir, a passionate Frontend Developer with expertise in HTML, CSS, JavaScript, React.js, and Vue.js. I specialize in building responsive, high-performance, and visually engaging websites that provide seamless user experiences. My focus is on clean code, UI/UX best practices, and modern web technologies to create fast and efficient applications.<br>🔥 What I Do Best:<br>✔️ Frontend Development – Writing clean, maintainable, and scalable code<br>✔️ React.js – Building interactive, component-based web applications<br>✔️ JavaScript & ES6+ – Implementing dynamic features and optimizing performance<br>✔️ Git & Version Control – Managing projects efficiently with Git & GitHub<br>I am constantly learning new technologies and frameworks to stay ahead in the industry. Open to collaborations and exciting web development opportunities! 🚀
 
 
